@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\bin\Debug\Dto.dll
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\bin\Debug\Dto.pdb
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\bin\Debug\Dal.dll
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\bin\Debug\Dal.pdb
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\obj\Debug\Dto.dll
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\obj\Debug\Dto.pdb
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\bin\Debug\Dto.dll.config
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\bin\Debug\Dal.dll.config
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Dto\bin\Debug\EntityFramework.SqlServer.xml
