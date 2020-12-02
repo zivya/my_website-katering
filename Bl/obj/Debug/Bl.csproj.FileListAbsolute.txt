@@ -16,3 +16,21 @@ C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפ�
 C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Bl\bin\Debug\Dto.dll.config
 C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Bl\bin\Debug\EntityFramework.xml
 C:\Users\USER\Desktop\צביה מחשבים\יד\שיעורי קורונה\הפרוייקטטט\Project_Catering\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\Bl.dll.config
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\Bl.dll
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\Bl.pdb
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\Dal.dll
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\Dto.dll
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\EntityFramework.dll
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\Dal.pdb
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\Dal.dll.config
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\Dto.pdb
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\Dto.dll.config
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\EntityFramework.xml
+C:\React\project\C#\my_website-katering\Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\React\project\C#\my_website-katering\Bl\obj\Debug\Bl.csprojAssemblyReference.cache
+C:\React\project\C#\my_website-katering\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\React\project\C#\my_website-katering\Bl\obj\Debug\Bl.csproj.CopyComplete
+C:\React\project\C#\my_website-katering\Bl\obj\Debug\Bl.dll
+C:\React\project\C#\my_website-katering\Bl\obj\Debug\Bl.pdb
