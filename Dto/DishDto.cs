@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Dto
 {
-    class DishDto
+    public class DishDto
     {
         public int idDose { get; set; }
         public string doseName { get; set; }
@@ -29,6 +29,7 @@ namespace Dto
             this.statusDose = d.statusDose;
 
         }
+
         public static Dal.Dish Todal(DishDto d)
         {
             return new Dal.Dish
@@ -42,6 +43,21 @@ namespace Dto
                 statusDose = d.statusDose
                 
             };
+        }
+
+        public static List<Dal.Dish> Todal(List<DishDto> d)
+        {
+            return d.Select(m => new Dal.Dish
+            {
+                idDose = m.idDose,
+                doseName = m.doseName,
+                doseDescription = m.doseDescription,
+                priceDose = m.priceDose,
+                picture = m.picture,
+                statusMeal = m.statusMeal,
+                statusDose = m.statusDose
+
+            }).ToList();
         }
     }
 }
